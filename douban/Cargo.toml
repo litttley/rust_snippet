@@ -1,0 +1,10 @@
+[package]
+name = "hypertest2"
+version = "0.1.0"
+authors = ["litttley <617914118@qq.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.7.2"
+scraper = "0.9.2"
+select = "0.4.2"
